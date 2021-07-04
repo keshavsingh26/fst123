@@ -1,0 +1,19 @@
+img{
+    height: 150px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width:4%;
+    border-color: grey;
+    border-width: 4px;
+}
+.first{
+    background-color:#E8F6EF;
+}
+.second{
+    background-color: bisque;
+}
+.third{
+    background-color: burlywood;
+}
